@@ -1,5 +1,7 @@
 Hello, here we will play a bit with Git!
 Now we are playing!
-This time from GitHub in a browser!
+This time from GitHub in a browser.
+
+Now with the new branch.
 
 we changed this in main branch
